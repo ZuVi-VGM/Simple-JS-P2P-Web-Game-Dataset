@@ -9,7 +9,7 @@ This repository contains the dataset for the [ZuVi-VGM/Simple-JS-P2P-Web-Game](h
 
 ## Tech Stack
 
-Python
+Python, Pandas, JSON.
 
 ## Roadmap
 
