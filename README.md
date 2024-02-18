@@ -4,7 +4,8 @@
 This repository contains the dataset for the [ZuVi-VGM/Simple-JS-P2P-Web-Game](https://github.com/ZuVi-VGM/Simple-JS-P2P-Web-Game) original project,  the python scripts used to generate it and the initial dataset, taken from [scalaWords](https://github.com/pazqo/scalaWords).
 
 <p>
-<img src="https://img.shields.io/badge/Status-Released-blue" /> <a href="https://opensource.org/licenses/" target="_blank"><img src="https://img.shields.io/badge/License-GPL%20v3-yellow.svg" /></a>
+<img src="https://img.shields.io/badge/Status-Released-blue" /> <a href="https://opensource.org/license/gpl-3-0/" target="_blank"><img src="https://img.shields.io/badge/License-GPL%20v3-yellow.svg" /></a>
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank"><img src="https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg" /></a>
 </p>
 
 ## Tech Stack
@@ -39,6 +40,10 @@ The compressed intermediate results are contained in the directory *[data/result
 
 - [@pazqo](https://github.com/pazqo) for the original [scalaWords](https://github.com/pazqo/scalaWords) list.
 - [@pazqo](https://github.com/pazqo) for the [PyMultiDictionary](https://github.com/ppizarror/PyMultiDictionary) libary.
+
+## License
+The result dataset of this project is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) and all the scripts used to generate this dataset are licensed under the [GPL v3](https://opensource.org/license/gpl-3-0/) license.
+
 ## Authors
 
 - [@ZuVi-VGM](https://www.github.com/ZuVi-VGM)
