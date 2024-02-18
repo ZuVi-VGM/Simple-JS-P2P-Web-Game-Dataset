@@ -7,6 +7,9 @@ This repository contains the dataset for the [ZuVi-VGM/Simple-JS-P2P-Web-Game](h
 <img src="https://img.shields.io/badge/Status-Released-blue" /> <a href="https://opensource.org/licenses/" target="_blank"><img src="https://img.shields.io/badge/License-GPL%20v3-yellow.svg" /></a>
 </p>
 
+## Tech Stack
+
+Python
 
 ## Roadmap
 
